@@ -1,0 +1,13 @@
+name: FIND_COV_data_portal
+title: FIND_COV_data_portal
+username:
+account: tafmeijer
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6114695
+bundleId: 5811332
+url: https://tafmeijer.shinyapps.io/FIND_COV_data_portal/
+when: 1650317309.06331
+lastSyncTime: 1650317309.06331
+asMultiple: FALSE
+asStatic: FALSE
